@@ -41,6 +41,48 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Boom",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "DragonHand",
+      "image": "https://ferrebeekeeper.files.wordpress.com/2011/10/4e63ef5607b91_59305n.jpg",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "Boom",
+      "image": "https://ferrebeekeeper.files.wordpress.com/2011/10/4e63ef5607b91_59305n.jpg",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "Corpse Flower",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkDF3DbJ06bmbujzeEQt7u-Pj2eWdzB7ObMVLWI-bv62AfVTaz71-NDhrYkQF0fvCbfY&usqp=CAU",
+      "price": "200",
+      "id": 11
+    },
+    {
+      "name": "Fried Shrimp",
+      "image": "https://ferrebeekeeper.files.wordpress.com/2011/10/4e63ef5607b91_59305n.jpg",
+      "price": "0.02",
+      "id": 12
+    },
+    {
+      "name": "Fried Shrimp",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkDF3DbJ06bmbujzeEQt7u-Pj2eWdzB7ObMVLWI-bv62AfVTaz71-NDhrYkQF0fvCbfY&usqp=CAU",
+      "price": "0.02",
+      "id": 13
+    },
+    {
+      "name": "df",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fda%2FHIFF_Logo.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHawaii_International_Film_Festival&tbnid=pMDpX79fKdzaHM&vet=12ahUKEwiEsvuK2aTzAhW-gHIEHXLYAvAQMygCegUIARCQAQ..i&docid=eWm1dHdNSiDwcM&w=576&h=247&q=hiff&hl=en&ved=2ahUKEwiEsvuK2aTzAhW-gHIEHXLYAvAQMygCegUIARCQAQ",
+      "price": "22",
+      "id": 14
     }
   ]
 }
